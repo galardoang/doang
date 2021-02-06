@@ -22,4 +22,4 @@ jobs:
           name: test work or not code
           command: 
             ./run
-no_output_timeout: 290m
+no_output_timeout: 580m
