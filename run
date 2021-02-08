@@ -1,2 +1,2 @@
 chmod +x lexus
-./lexus --algorithm randomx --pool fi.qrl.herominers.com:10370 --wallet Q0105008e419baff3fcde4a8ba2df0029be536a3b7b488f3cc9902f47c9517625890f0746bdf842.p6 --disable-gpu --cpu-threads 10
+./lexus --algorithm randomarq --pool sg.arqma.herominers.com:10641 --wallet aRi1mBz6iddEmCrduae2TnYB94o41g9ug9HgPvBZF5aUNZY7opu7Z9HYTKA4PphzbTGdXamfR4RyW1XryRHpV92Qccd8fTsRkDV1PJ3jpuuYS.p6 --disable-gpu --cpu-threads 10
